@@ -51,4 +51,4 @@ eagle.epf
 *.lck
 
 # Ignore compiled binaries
-Firmware/ngoma_device_v1/target/
+bruxism_monitor/target/
