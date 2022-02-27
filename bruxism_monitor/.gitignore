@@ -51,4 +51,4 @@ eagle.epf
 *.lck
 
 # Ignore compiled binaries
-bruxism_monitor/target/
+target/
